@@ -6,8 +6,8 @@
  
  запуск демо теста в различных фреймворках:
  ```
-    npm cy:run
-    npm testcafe:run
-    npm wdio:run
-    npm codeceptjs:run 
+    npm run cy:run
+    npm run testcafe:run
+    npm run wdio:run
+    npm run codeceptjs:run 
 ```
